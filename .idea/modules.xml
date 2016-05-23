@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidRentation.iml" filepath="$PROJECT_DIR$/AndroidRentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectview/injectview.iml" filepath="$PROJECT_DIR$/injectview/injectview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectview-annotations/injectview-annotations.iml" filepath="$PROJECT_DIR$/injectview-annotations/injectview-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectview-compiler/injectview-compiler.iml" filepath="$PROJECT_DIR$/injectview-compiler/injectview-compiler.iml" />
+    </modules>
+  </component>
+</project>
